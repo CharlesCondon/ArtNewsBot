@@ -6,5 +6,5 @@ The bot itself scrapes various news sites related to art, grabs the attached lin
 
 The bot is also set to only check for new articles once every 24 hours in order to not clog up the twitter feed. A safety function was also added here to make sure that no duplicate tweets were sent out either. 
 
-The program was made using node.js, Twit from npm, and puppeteer from npm.
+The program was made using node.js, Twit from npm, and Puppeteer from npm.
 Deployment and maintenance is done by Heroku.
