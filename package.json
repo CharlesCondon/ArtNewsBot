@@ -1,0 +1,21 @@
+{
+  "name": "artbot",
+  "version": "1.0.0",
+  "description": "A Twitter bot that gets popular contemporary art from news sites and posts about it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "art",
+    "news"
+  ],
+  "author": "Charles Condon",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0",
+    "twit": "^2.2.11"
+  }
+}
